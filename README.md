@@ -4,11 +4,24 @@ A structured, 12-month self-study plan for mastering Operational Technology (OT)
 
 ---
 
-## 📊 Overview & Goals
+## 🕒 Daily Study Routine
 
-- **Objective:** Bridge the IT/OT gap, master industrial control loops (PLCs, SCADA, HMIs), and learn to audit industrial protocols safely.
-- **Primary Focus:** OT Architecture, ICS Protocols (Modbus, DNP3, OPC UA), Hands-on Simulation, and Defensive/Offensive Security.
-- **Repository Purpose:** Centralized tracking for study notes, packet captures (`.pcap`), Wireshark filters, OpenPLC logic, and lab configurations.
+| Time Block | Focus | Strategy |
+| :--- | :--- | :--- |
+| **07:30 – 10:30 (Morning)** | **Deep Learning & Lab Work** | 3× 50-minute focused sprints (10-min breaks). Learn concepts, write code, run labs. |
+| **22:00 – 00:00 (Night)** | **Recalls, Quizzes & Logs** | Spaced repetition flashcards, self-testing, and committing progress to GitHub. |
+
+### ☀️ Morning Block Breakdown (07:30 – 10:30)
+- **07:30 – 08:20 (Sprint 1):** Theory & Core Concepts (Read specs, standards, Purdue Model, lectures).
+- **08:20 – 08:30:** Break.
+- **08:30 – 09:20 (Sprint 2):** Hands-on Execution & Lab Work (Wireshark `.pcap` analysis, OpenPLC ladder logic, Python scripts).
+- **09:20 – 09:30:** Break.
+- **09:30 – 10:30 (Sprint 3):** Lab Wrap-Up & Notes Drafting (Save configurations, draft documentation).
+
+### 🌙 Night Block Breakdown (22:00 – 00:00)
+- **22:00 – 23:00:** Active Recall & Flashcards (Anki cards for ports, protocol function codes, syntax).
+- **23:00 – 23:45:** Practice Quizzes & Scenario Testing (CISA modules, CTF challenges, self-quizzing).
+- **23:45 – 00:00:** Git Commit & Check-Off (Update task list, push code and notes).
 
 ---
 
